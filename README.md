@@ -4,6 +4,6 @@
 
 Automation software engineer and open source enthusiast.
 
-Consider sponsoring if you like my work:
+Consider [sponsoring](https://github.com/sponsors/kj4tmp) if you like my work:
 
 * [GatorCAT, An EtherCAT MainDevice Written in Zig](https://github.com/kj4tmp/gatorcat)
