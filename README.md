@@ -1,6 +1,6 @@
 # Jeff Anderson
 
-![A photo of me.](jeff.png)
+![A photo of me.](jeff.png | width=100)
 
 Automation software engineer and open source enthusiast.
 
