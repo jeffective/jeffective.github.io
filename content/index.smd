@@ -6,10 +6,17 @@
 .draft = false,
 ---
 
-Welcome to Jeff's personal rock-topped domicile. Hiding from the AIs.
-
-* Mechanical Engineer (when I am not forced to do software)
-* Zig Enthusiast
-
 [github](https://github.com/jeffective)
 [ziggit](https://ziggit.dev/u/kj4tmp/summary)
+
+Welcome to Jeff's personal rock-topped domicile. Hiding from the AIs.
+
+* Automation Software Engineer (born mechanical...)
+* Ziguana
+
+
+### Projects
+
+* [gatorcat](https://github.com/jeffective/gatorcat), an EtherCAT MainDevice for Zig
+
+You might also see me as **kj4tmp**.
