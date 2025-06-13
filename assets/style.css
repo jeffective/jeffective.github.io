@@ -3,3 +3,15 @@ body {
   color: #ccc;
   padding-bottom: 20px;
 }
+
+a {
+  color: #40c8f4; /* A bright, friendly cyan */
+  text-decoration: underline;
+  transition: color 0.2s ease-in-out;
+}
+
+/* On hover and focus, make the link even brighter */
+a:hover,
+a:focus {
+  color: #8be9fd; /* A lighter, more vibrant cyan */
+}
